@@ -2,6 +2,9 @@
 permalink: /cv/
 title: "Curriculum Vitae"
 ---
+
+***
+
 ### Contact
 Email: rosario.iacono[at]unict.it
 
@@ -29,7 +32,7 @@ Catania, Italy\
 <span style="color: #36486b;" >Bachelor of Sciences in Agricultural Sciences and Technologies in Tropical and Sbtropical Areas</span>\
 Department of Agriculture Food and Environment (Di3A)\
 University of Catania\
-Catania, Italy\
+Catania, Italy
 
 ***
 
@@ -44,7 +47,7 @@ Catania, Italy\
 <span style="color: #36486b;" >Visiting Scientist</span>\
 Liebniz Centre for Agricultural Landscape Research (ZALF)\ 
 Muncheberg, Germany\
-\
 
+***
 
 ### Skills
