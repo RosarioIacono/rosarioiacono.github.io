@@ -3,5 +3,11 @@ permalink: /cv/
 title: "CV"
 ---
 
-# New CV
-This is a new page
+## Curriculum vitae
+### Contact
+
+### Education
+
+### Experience
+
+### Skills
