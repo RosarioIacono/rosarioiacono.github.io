@@ -5,6 +5,8 @@ title: "Curriculum Vitae"
 ### Contact
 Email: rosario.iacono[at]unict.it
 
+***
+
 ### <span style="color: #36486b;" >Education</span> 
 **<span style="color: #618685;" >2016 - 2021</span>**\
 <span style="color: #36486b;" >PhD in Biological Sciences</span>\
@@ -28,6 +30,8 @@ Catania, Italy\
 Department of Agriculture Food and Environment (Di3A)\
 University of Catania\
 Catania, Italy\
+
+***
 
 ### <span style="color: #36486b;" >Experience</span>
 **<span style="color: #618685;" >March 2022 - Present</span>**\
