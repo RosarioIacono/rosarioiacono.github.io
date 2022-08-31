@@ -8,8 +8,8 @@ tags:
   - update
 ---
 
-Welcome to my blog.\
+Welcome to my blog.
 
-More content is coming soon\
+More content is coming soon
 
 
