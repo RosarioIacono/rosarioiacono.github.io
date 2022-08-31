@@ -30,7 +30,7 @@ University of Catania\
 Catania, Italy\
 \
 
-### <span style="color: DarkSlateBlue;" >Experience</span>
-
+### <span style="color: #36486b;" >Experience</span>
+**<span style="color: #618685;" >March 2022 - Present</span>**\
 
 ### Skills
