@@ -10,12 +10,12 @@ Email: rosario.iacono[at]unict.it
 PhD in Biological Sciences\
 Institute of Biological Environmental and Rural Sciences (IBERS)\
 Aberystwyth University\
-Aberystwyth, United Kingdom
+Aberystwyth, United Kingdom\
 \
 **2020 - 2021**\
 Associate Fellow Teacher of the Higher Education Academy (AFHEA)\
 Advance UK\
-Heslington, York, YO10 5BR, United Kingdom
+Heslington, York, YO10 5BR, United Kingdom\
 \
 **2006 - 2010**\
 Master in Agricultural Sciences and Technologies\
