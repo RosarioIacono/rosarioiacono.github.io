@@ -5,8 +5,8 @@ title: "Curriculum Vitae"
 ### Contact
 Email: rosario.iacono[at]unict.it
 
-### <span style="color: CornflowerBlue;" >Education</span> 
-**2016 - 2021**\
+### <span style="color: #36486b;" >Education</span> 
+**<span style="color: #618685;" >2016 - 2021</span>**\
 PhD in Biological Sciences\
 Institute of Biological Environmental and Rural Sciences (IBERS)\
 Aberystwyth University\
@@ -30,6 +30,7 @@ University of Catania\
 Catania, Italy\
 \
 
-### Experience
+### <span style="color: DarkSlateBlue;" >Experience</span>
+
 
 ### Skills
