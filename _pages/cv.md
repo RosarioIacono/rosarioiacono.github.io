@@ -5,7 +5,7 @@ title: "Curriculum Vitae"
 ### Contact
 Email: rosario.iacono[at]unict.it
 
-### Education {: style=“color: blue; opacity: 0.80;” }
+<span style="color: red;">### Education</span>
 **2016 - 2021**\
 PhD in Biological Sciences\
 Institute of Biological Environmental and Rural Sciences (IBERS)\
