@@ -3,7 +3,7 @@ permalink: /cv/
 title: "Curriculum Vitae"
 ---
 
-***
+<span style="color: #fefbd8;" >***</span> 
 
 ### Contact
 Email: rosario.iacono[at]unict.it
