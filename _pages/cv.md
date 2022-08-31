@@ -1,12 +1,16 @@
 ---
 permalink: /cv/
-title: "CV"
+title: "Curriculum Vitae"
 ---
-
-## Curriculum vitae
 ### Contact
+Email: rosario.iacono[at]unict.it
 
 ### Education
+**2016 - 2021**
+PhD in Biological Sciences
+Institute of Biological Environmental and Rural Sciences (IBERS)
+Aberystwyth University
+
 
 ### Experience
 
