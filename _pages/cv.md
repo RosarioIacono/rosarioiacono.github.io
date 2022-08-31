@@ -7,24 +7,24 @@ Email: rosario.iacono[at]unict.it
 
 ### <span style="color: #36486b;" >Education</span> 
 **<span style="color: #618685;" >2016 - 2021</span>**\
-PhD in Biological Sciences\
+<span style="color: #36486b;" >PhD in Biological Sciences</span>\
 Institute of Biological Environmental and Rural Sciences (IBERS)\
 Aberystwyth University\
 Aberystwyth, United Kingdom\
 \
-**2020 - 2021**\
-Associate Fellow Teacher of the Higher Education Academy (AFHEA)\
+**<span style="color: #618685;" >2020 - 2021</span>**\
+<span style="color: #36486b;" >Associate Fellow Teacher of the Higher Education Academy (AFHEA)</span>\
 Advance UK\
 Heslington, York, YO10 5BR, United Kingdom\
 \
-**2006 - 2010**\
-Master in Agricultural Sciences and Technologies\
+**<span style="color: #618685;" >2006 - 2010</span>**\
+<span style="color: #36486b;" >Master in Agricultural Sciences and Technologies</span>\
 Department of Agriculture Food and Environment (Di3A)\
 University of Catania\
 Catania, Italy\
 \
-**2002 - 2006**\
-Bachelor of Sciences in Agricultural Sciences and Technologies in Tropical and Sbtropical Areas\
+**<span style="color: #618685;" >2002 - 2006</span>**\
+<span style="color: #36486b;" >Bachelor of Sciences in Agricultural Sciences and Technologies in Tropical and Sbtropical Areas</span>\
 Department of Agriculture Food and Environment (Di3A)\
 University of Catania\
 Catania, Italy\
@@ -32,6 +32,6 @@ Catania, Italy\
 
 ### <span style="color: #36486b;" >Experience</span>
 **<span style="color: #618685;" >March 2022 - Present</span>**\
-Lecturer
+<span style="color: #36486b;" >Lecturer</span>
 
 ### Skills
