@@ -28,10 +28,19 @@ Catania, Italy\
 Department of Agriculture Food and Environment (Di3A)\
 University of Catania\
 Catania, Italy\
-\
 
 ### <span style="color: #36486b;" >Experience</span>
 **<span style="color: #618685;" >March 2022 - Present</span>**\
-<span style="color: #36486b;" >Lecturer</span>
+<span style="color: #36486b;" >Lecturer</span>\
+Department of Agriculture Food and Environment (Di3A)\ 
+University of Catania\
+Catania, Italy\
+\
+**<span style="color: #618685;" >October 2020 - March 2021 </span>**\
+<span style="color: #36486b;" >Visiting Scientist</span>\
+Liebniz Centre for Agricultural Landscape Research (ZALF)\ 
+Muncheberg, Germany\
+\
+
 
 ### Skills
