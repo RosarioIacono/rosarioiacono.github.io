@@ -50,4 +50,7 @@ Muncheberg, Germany\
 
 ***
 
-### Skills
+### <span style="color: #36486b;" >Skills</span>
+#### <span style="color: #618685;" >Programming languages</span>
+* R Programming
+* Python
