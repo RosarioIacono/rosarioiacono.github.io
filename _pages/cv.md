@@ -5,7 +5,7 @@ title: "Curriculum Vitae"
 
 *** 
 
-### Contact
+### <span style="color: #36486b;" >Contact</span> 
 Email: rosario.iacono[at]unict.it
 
 ***
