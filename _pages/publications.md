@@ -19,11 +19,22 @@ Regulation of sulphate uptake in Arabidopsis thaliana: The possible role of STRA
 Minerva Biotecnologica (2011)
 
 ## Talks
-### VIII. Cell Wall Research Conference, Asilomar, USA, June 18-22
+### VIII. Cell Wall Research Conference, Asilomar, USA, June 18-22, 2018
 Miscanthus cell wall recalcitrance to deconstruction: can we tar a whole genus with the same
 brush?
 
-
-
 ## Conference Posters
+**Iacono R.**, Allison G., Bosch M. (2019)\
+Assessing the variability of cell wall characteristics in Miscanthus from various genetic backgrounds\
+XV Cell Wall Meeting,Cambridge, UK
+
+**Iacono R.**, Allison G., Bosch M. (2019)
+Biomass fit for biorefineries: detailed characterization of lignocellulosic biomass from 12 Miscanthus genotypes.
+IV LBNet Meeting, Manchester, UK
+
+**Iacono R.**, Allison G., Bosch M. (2018)\
+Miscanthus cell wall recalcitrance to deconstruction: Can we tar a whole genus with the same brush?\
+III LBNet Meeting, Manchester, UK\
+
+
 
