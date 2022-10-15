@@ -3,9 +3,9 @@ permalink: /publications/
 title: "Publications"
 ---
 
-## <span style="color: #36486b;" >Peer reviewd papers</span>
-**<span style="color: #618685;" >Iacono R.**, Allison G. & Maurice B.</span>\
-Effects of nitrogen and phosphorus limitation on phenological, physiological and biomass conversion traits in natural accessions and hybrids of *Miscanthus spp.*. \
+## <span style="color: #36486b;" >Peer reviewed papers</span>
+<span style="color: #618685;" >**Iacono R.**, Allison G. & Maurice B.</span>\
+<span style="color: #36486b;" >Effects of nitrogen and phosphorus limitation on phenological, physiological and biomass conversion traits in natural accessions and hybrids of *Miscanthus spp.*. </span>\
 Abstract Saclay Plant Science Summer School (2020)
 
 
