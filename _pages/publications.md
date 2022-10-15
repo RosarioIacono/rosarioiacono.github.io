@@ -14,8 +14,8 @@ Abstract Saclay Plant Science Summer School (2020)
 Sci Rep 9, 8800 (2019). https://doi.org/10.1038/s41598-019-45225-9
 
 
-<span style="color: #618685;" >**Iacono R.**, Lancilli C., Sacchi G.A., Nocito F.F.\
-Regulation of sulphate uptake in Arabidopsis thaliana: The possible role of STRAM1. \
+<span style="color: #618685;" >**Iacono R.**, Lancilli C., Sacchi G.A., Nocito F.F.</span>\
+<span style="color: #36486b;" >Regulation of sulphate uptake in Arabidopsis thaliana: The possible role of STRAM1. \</span>
 Minerva Biotecnologica (2011)
 
 ## Talks
