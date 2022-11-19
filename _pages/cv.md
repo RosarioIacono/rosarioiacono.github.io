@@ -6,7 +6,7 @@ title: "Curriculum Vitae"
 *** 
 
 ### <span style="color: #36486b;" >Contact</span> 
-Email: rosario.iacono[at]unict.it
+Email: iaconorosario[at]gmail.com
 
 ***
 
@@ -65,3 +65,5 @@ I have managed successfully (two times out of three):
 Until now I have used without damages:
 * High Performance Liquid Chromatography (HPLC)
 * High Performance Anion Exchange Chromatography with Pulsed Amperometric Detector (HPAEC-PAD) 
+* Thermogravimetric Analysis (TGA)
+* Fourier Transformed InfraRed Spectroscopy (FTIR)
