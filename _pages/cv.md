@@ -52,5 +52,16 @@ Muncheberg, Germany\
 
 ### <span style="color: #36486b;" >Skills</span>
 #### <span style="color: #618685;" >Programming languages</span>
-* R Programming
+I am able to write (almost) bug free code in:
+* R 
 * Python
+* Julia
+#### <span style="color: #618685;" >Molecular biology</span>
+I have managed successfully (two times out of three):
+* DNA/RNA extraction
+* PCR
+* Real-Time PCR
+#### <span style="color: #618685;" >Analytical techniques</span>
+Until now I have used without damages:
+* High Performance Liquid Chromatography (HPLC)
+* High Performance Anion Exchange Chromatography with Pulsed Amperometric Detector (HPAEC-PAD) 
