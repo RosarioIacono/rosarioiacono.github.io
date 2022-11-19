@@ -78,7 +78,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/rosario-iacono/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -89,6 +89,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/datagronomist"
+    - label: "TikTok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://tiktok.com/@datagronomist"
 
 defaults:
   # _posts
