@@ -63,7 +63,7 @@ author:
   bio    : "Using data for agronomy"
   links:
     - label: "LinkedIn"
-      icon: "fab fa fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/rosario-iacono/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
