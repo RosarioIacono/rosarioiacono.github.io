@@ -2,12 +2,12 @@
 permalink: /projects/
 title: "Projects"
 ---
-## Present
-### Kasveista
-#### Since 2020
-Kasveista is a startup that aims to produce seeds of open-source varieties specifically selected for the vertical farming. \
-**Position**: CEO and Founder \
-**Website**: [kasveista.com](https://www.kasveista.com)
+## <span style="color: #36486b;" >Present</span>\
+### <span style="color: #36486b;" > Kasveista</span>\
+**<span style="color: #618685;" >Since 2020</span>**\
+Kasveista is a startup that aims to produce seeds of open-source vegetable varieties specifically selected for the vertical farming. \
+**<span style="color: #36486b;" >Position</span>**: CEO and Founder \
+**<span style="color: #36486b;" >Website</span>**: [kasveista.com](https://www.kasveista.com)
         
       
 
