@@ -1,12 +1,10 @@
 ---
-title: "Performing ANOVA with Julia"
-date: 2022-08-31T05:23:30-04:00
+title: "Look down to Earth: remote sensing and vegetation indices"
+date: 2022-11-22T05:23:30-04:00
 categories:
-  - statistics
+  - agronomy
 tags:
-  - Jekyll
   - update
-  - Julia
 ---
+Everything began when we started looking Earth from the top. On July 13, 1972 Landsat 1, then known  as Earth Resources Technology Satellite (ERTS) was sent by NASA to orbit around our planet. It was the first Earth-observing satellite to be launched with the express intent to study and monitor our planet’s landmasses.
 
-I recently started to learn Julia, a new programming language for science.
