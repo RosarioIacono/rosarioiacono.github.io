@@ -7,4 +7,5 @@ tags:
   - update
 ---
 Everything began when we started looking Earth from the top. On July 13, 1972 Landsat 1, then known  as Earth Resources Technology Satellite (ERTS) was sent by NASA to orbit around our planet. It was the first Earth-observing satellite to be launched with the express intent to study and monitor our planet’s landmasses.
+![A sketch of the Landsat1 satellite (Source: https://landsat.gsfc.nasa.gov/satellites/landsat-1/)](/assets/images/erts.jpg)
 
