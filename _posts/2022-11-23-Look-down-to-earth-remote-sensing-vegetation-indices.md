@@ -7,5 +7,12 @@ tags:
   - update
 ---
 Everything began when we started looking Earth from the top. On July 13, 1972 Landsat 1, then known  as Earth Resources Technology Satellite (ERTS) was sent by NASA to orbit around our planet. It was the first Earth-observing satellite to be launched with the express intent to study and monitor our planet’s landmasses.
+
 ![A sketch of the Landsat1 satellite (Source: https://landsat.gsfc.nasa.gov/satellites/landsat-1/)](/assets/images/erts.jpg)
+
+And if you were to be Landsat1, some things would strike your attention once you were up there:
+1. You are not afraid of heights, although this feature was never tested by NASA
+2. You feel quite lonely
+3. The earth looks quite small seen from there
+What is more you would look down to earth and see it quite differently.
 
