@@ -14,5 +14,6 @@ And if you were to be Landsat1, some things would strike your attention once you
 1. You are not afraid of heights, although this feature was never tested by NASA
 2. You feel quite lonely
 3. The earth looks quite small seen from there
+
 What is more you would look down to earth and see it quite differently.
 
