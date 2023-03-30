@@ -10,6 +10,17 @@ Email: iaconorosario[at]gmail.com
 
 ***
 
+### <span style="color: #36486b;" >Present position</span>
+**<span style="color: #618685;" >March 2022 - Present</span>**\
+<span style="color: #36486b;" >Research Fellow</span>\
+Department of Agriculture Food and Environment (Di3A)\ 
+University of Catania (UniCT)\
+Catania, Italy\
+Using modelling to predict the impact of agrivoltaic systems in Mediterranean areas.
+\
+
+***
+
 ### <span style="color: #36486b;" >Education</span> 
 **<span style="color: #618685;" >2016 - 2021</span>**\
 <span style="color: #36486b;" >PhD in Biological Sciences</span>\
