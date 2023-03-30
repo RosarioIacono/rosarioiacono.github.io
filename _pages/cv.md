@@ -11,7 +11,7 @@ Email: iaconorosario[at]gmail.com
 ***
 
 ### <span style="color: #36486b;" >Present position</span>
-**<span style="color: #618685;" >March 2022 - Present</span>**\
+**<span style="color: #618685;" >January 2023 - Present</span>**\
 <span style="color: #36486b;" >Research Fellow</span>\
 Department of Agriculture Food and Environment (Di3A)\ 
 University of Catania (UniCT)\
@@ -48,7 +48,7 @@ Catania, Italy
 ***
 
 ### <span style="color: #36486b;" >Experience</span>
-**<span style="color: #618685;" >March 2022 - Present</span>**\
+**<span style="color: #618685;" >March 2022 - October 2022</span>**\
 <span style="color: #36486b;" >Lecturer</span>\
 Department of Agriculture Food and Environment (Di3A)\ 
 University of Catania\
@@ -63,19 +63,18 @@ Muncheberg, Germany\
 
 ### <span style="color: #36486b;" >Skills</span>
 #### <span style="color: #618685;" >Programming languages</span>
-I am able to write (almost) bug free code in:
 * R 
 * Python
 * Julia
 
 #### <span style="color: #618685;" >Molecular biology</span>
-I have managed successfully (two times out of three):
+I have managed successfully:
 * DNA/RNA extraction
 * PCR
 * Real-Time PCR
 
 #### <span style="color: #618685;" >Analytical techniques</span>
-Until now I have used without damages:
+Until now I have used:
 * High Performance Liquid Chromatography (HPLC)
 * High Performance Anion Exchange Chromatography with Pulsed Amperometric Detector (HPAEC-PAD) 
 * Thermogravimetric Analysis (TGA)
