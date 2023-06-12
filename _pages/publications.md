@@ -16,8 +16,9 @@ Abstract Monogram Conference (2020)
 
 
 <span style="color: #618685;" >Bhatia R., Dalton S., Roberts L.A., Moron-Garcia O.M., **Iacono R.**, Kosik O., Gallagher J.A. & Bosch M.</span>\
-<span style="color: #36486b;" >Modified expression of ZmMYB167 in *Brachypodium distachyon* and *Zea mays* leads to increased cell wall lignin and phenolic content. </span>\
-Sci Rep 9, 8800 (2019). https://doi.org/10.1038/s41598-019-45225-9
+<a haref="https://www.nature.com/articles/s41598-019-45225-9" style="text-decoration: none"><span style="color: #36486b;" ><span style="color: #36486b;" >Modified expression of ZmMYB167 in *Brachypodium distachyon* and *Zea mays* leads to increased cell wall lignin and phenolic content. </span></a>\
+Scientific Reports 9, 8800 (2019).\
+<a href="https://www.nature.com/articles/s41598-019-45225-9" style="text-decoration: none">doi:10.1038/s41598-019-45225-9</a>
 
 
 <span style="color: #618685;" >**Iacono R.**, Lancilli C., Sacchi G.A., Nocito F.F.</span>\
