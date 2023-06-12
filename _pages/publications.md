@@ -5,8 +5,8 @@ title: "Publications"
 
 ## <span style="color: #36486b;" >Peer reviewed papers</span>
 <span style="color: #618685;" >**Iacono R.**, Slavov G. T., Davey C. L., Clifton-Brown J., Allison G. & Maurice B.</span>\
-<a href="https://www.frontiersin.org/articles/10.3389/fpls.2023.1155188/full"><span style="color: #36486b;" >Variability of cell wall recalcitrance and composition in genotypes of Miscanthus from different genetic groups and geographical origin </span>\
-Frontiers in Plant Science 14:1155188 (2023). doi: 10.3389/fpls.2023.1155188</a>
+<a href="https://www.frontiersin.org/articles/10.3389/fpls.2023.1155188/full" style="text-decoration: none"><span style="color: #36486b;" >Variability of cell wall recalcitrance and composition in genotypes of Miscanthus from different genetic groups and geographical origin </span></a>\
+Frontiers in Plant Science 14:1155188 (2023). <a href="https://www.frontiersin.org/articles/10.3389/fpls.2023.1155188/full" style="text-decoration: none">doi: 10.3389/fpls.2023.1155188</a>
 
 
 <span style="color: #618685;" >**Iacono R.**, Allison G. & Maurice B.</span>\
