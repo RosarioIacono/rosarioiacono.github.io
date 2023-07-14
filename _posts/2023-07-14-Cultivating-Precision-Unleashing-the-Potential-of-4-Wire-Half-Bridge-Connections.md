@@ -8,7 +8,7 @@ tags:
   - data
 ---
 
-[Temperature Alert Sensor and Thermostat in a Flower Glasshouse](https://github.com/RosarioIacono/rosarioiacono.github.io/tree/master/assets/images/sensors.jpg)
+![Temperature Alert Sensor and Thermostat in a Flower Glasshouse](https://github.com/RosarioIacono/rosarioiacono.github.io/tree/master/assets/images/sensors.jpg)
 
 
 As an environmental researcher delving into the intricate relationship between agrivoltaic systems, the Mediterranean environment, and crop growth, I discovered the immense value of precise measurements. Accuracy is paramount when assessing such systems' impact on the ecosystem and agricultural productivity. That's where the remarkable 4-wire half bridge connection, specifically in connecting temperature probes to dataloggers, proved invaluable.
