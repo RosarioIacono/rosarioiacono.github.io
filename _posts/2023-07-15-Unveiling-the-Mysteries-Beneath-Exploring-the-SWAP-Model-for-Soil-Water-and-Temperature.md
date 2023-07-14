@@ -1,6 +1,6 @@
 ---
 title: "Unveiling the Mysteries Beneath Exploring the SWAP Model for Soil Water and Temperature"
-date: 2022-07-15T05:23:30-04:00
+date: 2023-07-15T05:23:30-04:00
 categories:
   - electronics
 tags:

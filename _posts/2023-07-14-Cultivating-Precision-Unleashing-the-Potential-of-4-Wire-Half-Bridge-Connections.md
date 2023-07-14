@@ -1,6 +1,6 @@
 ---
 title: "Cultivating Precision Unleashing the Potential of 4-Wire Half Bridge Connections"
-date: 2022-07-14T05:23:30-04:00
+date: 2023-07-14T05:23:30-04:00
 categories:
   - electronics
 tags:
