@@ -11,13 +11,11 @@ Email: iaconorosario[at]gmail.com
 ***
 
 ### <span style="color: #36486b;" >Present position</span>
-**<span style="color: #618685;" >January 2023 - Present</span>**\
-<span style="color: #36486b;" >Research Fellow</span>\
-Department of Agriculture Food and Environment (Di3A)\ 
-University of Catania (UniCT)\
-Catania, Italy\
-Using modelling to predict the impact of agrivoltaic systems in Mediterranean areas.
-
+**<span style="color: #618685;" >Oct 2023 - Present</span>**\
+<span style="color: #36486b;" >Postdoctoral researcher</span>\
+Helmholtz Centre for Environmental Research\ 
+Halle Saale, Germany\
+Soil microbial diversity and community composition of grassland and forest ecosystems along land-use gradients
 
 ***
 
@@ -48,6 +46,13 @@ Catania, Italy
 ***
 
 ### <span style="color: #36486b;" >Experience</span>
+**<span style="color: #618685;" >Jan 2023 - Sep 2023</span>**\
+<span style="color: #36486b;" >Research Fellow</span>\
+Department of Agriculture Food and Environment (Di3A)\ 
+University of Catania\
+Catania, Italy\
+Survey and processing of agro-meteorological data at the ‘Monforte’ agri-voltaic Park\
+\
 **<span style="color: #618685;" >March 2022 - October 2022</span>**\
 <span style="color: #36486b;" >Lecturer</span>\
 Department of Agriculture Food and Environment (Di3A)\ 
