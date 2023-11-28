@@ -13,8 +13,8 @@ Email: iaconorosario[at]gmail.com
 ### <span style="color: #36486b;" >Present position</span>
 **<span style="color: #618685;" >Oct 2023 - Present</span>**\
 <span style="color: #36486b;" >Postdoctoral researcher</span>\
-Helmholtz Centre for Environmental Research \ 
-Halle Saale, Germany \
+Helmholtz Centre for Environmental Research\
+Halle Saale, Germany\
 Soil microbial diversity and community composition of grassland and forest ecosystems along land-use gradients
 
 ***
